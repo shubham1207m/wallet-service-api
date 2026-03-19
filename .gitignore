@@ -1,0 +1,19 @@
+# Build files
+target/
+*.log
+*.class
+*.jar
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# IntelliJ
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional (if using VS Code)
+.vscode/
